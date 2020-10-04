@@ -1,0 +1,25 @@
+https://www.freecodecamp.org/news/how-to-decide-on-the-best-technology-for-your-website-815dbb92294b/
+
+CMS : Trop dépendant au CMS et trop lourd à deployer.
+
+Client-Side : HTML/CSS/JS - Angular/React/VueJS
+
+Programming language(Framework) : .Net(C#)/JAVA(Spring - Hibernate - Struts ...)/PHP(Zend - Synphony)/RUBY (Rails - Sinatra)
+
+Database : MySql/Postegre/SqlServer/Oracle
+
+-----------------------------------------------------------------
+
+CMS:
+	ADV
+Avoir le control que le site via des interface facile.
+Les mise en place et modifications sont rapides.
+Pas besoin de développeur
+
+	DisADV
+Le Look est cassé si on n'utilise pas bien le CMS
+Dépendance au CMS
+Facile à piater
+Moins performants
+Lourdeur de déploiement
+Consommation des resources - deploiement couteux
